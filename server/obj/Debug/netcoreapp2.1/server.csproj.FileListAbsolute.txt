@@ -9,10 +9,10 @@ E:\boilerplates\netcorevue\server\bin\Debug\netcoreapp2.1\server.pdb
 E:\boilerplates\netcorevue\server\obj\Debug\netcoreapp2.1\server.csprojAssemblyReference.cache
 E:\boilerplates\netcorevue\server\obj\Debug\netcoreapp2.1\server.AssemblyInfoInputs.cache
 E:\boilerplates\netcorevue\server\obj\Debug\netcoreapp2.1\server.AssemblyInfo.cs
-E:\boilerplates\netcorevue\server\obj\Debug\netcoreapp2.1\server.csproj.CoreCompileInputs.cache
 E:\boilerplates\netcorevue\server\obj\Debug\netcoreapp2.1\server.RazorAssemblyInfo.cache
 E:\boilerplates\netcorevue\server\obj\Debug\netcoreapp2.1\server.RazorAssemblyInfo.cs
 E:\boilerplates\netcorevue\server\obj\Debug\netcoreapp2.1\server.RazorTargetAssemblyInfo.cache
 E:\boilerplates\netcorevue\server\obj\Debug\netcoreapp2.1\server.dll
 E:\boilerplates\netcorevue\server\obj\Debug\netcoreapp2.1\server.pdb
 E:\boilerplates\netcorevue\server\obj\Debug\netcoreapp2.1\server.genruntimeconfig.cache
+E:\boilerplates\netcorevue\server\obj\Debug\netcoreapp2.1\server.csproj.CoreCompileInputs.cache

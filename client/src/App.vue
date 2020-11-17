@@ -1,7 +1,9 @@
 <template>
   <div id="app">
     <TopNavigation />
-    <router-view />
+    <main class="container mt-5">
+      <router-view />
+    </main>
   </div>
 </template>
 
@@ -10,6 +12,9 @@ import TopNavigation from "@/components/TopNavigation"
 export default {
   components: {
     TopNavigation
+  },
+  mounted() {
+    this.getQuestions
   }
 }
 </script>

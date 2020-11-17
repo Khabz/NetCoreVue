@@ -1,5 +1,4 @@
 import Vue from "vue";
-import axios from "axios";
 import BootstrapVue from "bootstrap-vue";
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap-vue/dist/bootstrap-vue.css";
@@ -10,8 +9,7 @@ import store from "./store";
 
 Vue.config.productionTip = false;
 
-axios.defaults.baseURL = "https://localhost:5001";
-Vue.prototype.$http = axios
+Vue.use(require('vue-moment'));
 
 Vue.use(BootstrapVue);
 
